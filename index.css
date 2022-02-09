@@ -6,3 +6,9 @@
     border: solid medium navy;  
 }
 
+#container > h1 {
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: darkgreen;
+}
+
